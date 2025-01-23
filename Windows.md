@@ -1,4 +1,4 @@
-推荐您从对应的官网获取安装包。  
+建议从对应的官网获取安装包。  
 
 个人提供的第三方链接：[天翼云盘](https://cloud.189.cn/t/mqAR7fvUvQni)  PWD: `NTP8` 
 
@@ -12,12 +12,13 @@
   * [Firefox ESR`52.9.0`](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/zh-CN/Firefox%20Setup%2052.9.0esr.exe)
   * [Internet Explorer`8`](https://download.microsoft.com/download/1/6/1/16174D37-73C1-4F76-A305-902E9D32BAC9/IE8-WindowsXP-x86-CHS.exe)
   * [Mini Browser`1.0.0.134`](https://browser-download.kfsafe.cn/MiniBrowserSetup.exe)<sup>`Chromium87`</sup>
-  * [Opera`36.0.2130.65`](https://ftp.opera.com/ftp/pub/opera/desktop/36.0.2130.65/win/Opera_36.0.2130.65_Setup.exe)<sup>`Chromium49`</sup>
+  * [Opera`36.0.2130.80`](https://download.operachina.com/ftp/pub/opera-winxpvista/36.0.2130.80/win/Opera_winxpvista_36.0.2130.80_Setup.exe)<sup>`Chromium49` `CN Version`</sup>
   * [QQ浏览器`9.7`](http://dldir1.qq.com/invc/tt/QQBrowser_Setup_9.7.exe)<sup>`Chromium53`</sup>
   * [Safari`5.1.7`](http://appldnld.apple.com/Safari5/041-5487.20120509.INU8B/SafariSetup.exe)
 ----------------
 * Windows 7/8.1
   * `推荐`[Firefox ESR`115.x`](https://www.mozilla.org/zh-CN/firefox/all/desktop-esr/)
+  * [Catsxp 猫眼浏览器`5.1.2`](https://www.catsxp.com/)<sup>`Chromium132`</sup>
   * [Supermium`126.0.6478.260 R6`](https://github.com/win32ss/supermium/releases)
   * [360安全浏览器`16.0.1050.0`](https://bbs.360.cn/thread-16149929-1-1.html)<sup>`Chromium132`</sup>
   * [QQ浏览器`13.5.6266`](https://browser.qq.com/)<sup>`Chromium116`</sup>
