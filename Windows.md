@@ -4,8 +4,8 @@
 
 ----------------
 * Windows XP
-  * [Mypal`68.14.5b`](https://github.com/Feodor2/Mypal68/releases)<sup>`Firefox78`</sup>
-  * `推荐`[Supermium`126.0.6478.260 R6`](https://github.com/win32ss/supermium/releases)
+  * [Mypal`68.14.7b`](https://github.com/Feodor2/Mypal68/releases)<sup>`Firefox78`</sup>
+  * `推荐`[Supermium`126.0.6478.261 R7`](https://github.com/win32ss/supermium/releases)
   * [360安全浏览器`13.1.6410.0`](https://down.360safe.com/se/360se13.1.6410.0.exe)<sup>`Chromium86`</sup>
   * [360极速浏览器`13.5.2044.0`](https://down.360safe.com/cse/360cse_13.5.2044.0.exe)<sup>`Chromium86`</sup>
   * [Chrome`49.0.2623.112`](https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x71lor5zzkliyh8fv3sryayu5uk5zi20ep7dwfnwr143dzxqijv/49.0.2623.112_chrome_installer.exe)
@@ -17,10 +17,10 @@
   * [Safari`5.1.7`](http://appldnld.apple.com/Safari5/041-5487.20120509.INU8B/SafariSetup.exe)
 ----------------
 * Windows 7/8.1
-  * `推荐`[Firefox ESR`115.x`](https://www.mozilla.org/zh-CN/firefox/all/desktop-esr/)
+  * `推荐，维护至25年9月`[Firefox ESR`115.x`](https://www.mozilla.org/zh-CN/firefox/all/desktop-esr/)
   * [Catsxp 猫眼浏览器`5.1.2`](https://www.catsxp.com/)<sup>`Chromium132`</sup>
-  * [Supermium`126.0.6478.260 R6`](https://github.com/win32ss/supermium/releases)
-  * [360安全浏览器`16.0.1050.0`](https://bbs.360.cn/thread-16149929-1-1.html)<sup>`Chromium132`</sup>
+  * [Supermium`126.0.6478.261 R7`](https://github.com/win32ss/supermium/releases)
+  * [360安全浏览器`16.1.1088.64`](https://bbs.360.cn/thread-16149929-1-1.html)<sup>`Chromium132`</sup>
   * [QQ浏览器`13.5.6266`](https://browser.qq.com/)<sup>`Chromium116`</sup>
   * [CentBrowser`5.1.1130.129`](https://www.centbrowser.cn/history.html)<sup>`Chromium118`</sup>
   * Chrome`109.0.5414.120` [64位](https://dl.google.com/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe) [32位](https://dl.google.com/release2/chrome/acihtkcueyye3ymoj2afvv7ulzxa_109.0.5414.120/109.0.5414.120_chrome_installer.exe)
@@ -30,7 +30,7 @@
   * Vivaldi`5.6.2867.62`<sup>`Chromium108`</sup> [64位](https://downloads.vivaldi.com/stable/Vivaldi.5.6.2867.62.x64.exe) [32位](https://downloads.vivaldi.com/stable/Vivaldi.5.6.2867.62.exe)
  ----------------
 * Flash
-  * `推荐`[CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser/releases)<sup>`Chromium84`</sup>
+  * `推荐`[CefFlashBrowser`1.0.8`](https://github.com/Mzying2001/CefFlashBrowser/releases)<sup>`Chromium84`</sup>
   * [CentBrowser`4.3.9.248`](https://centbrowser.cn/history.html)<sup>`Chromium86`</sup>
   * Chrome`87.0.4280.141` [第三方链接](https://zhuanlan.zhihu.com/p/614438195)
   * Firefox`84.0.2` [64位](https://ftp.mozilla.org/pub/firefox/releases/84.0.2/win64/zh-CN/Firefox%20Setup%2084.0.2.exe) [32位](https://ftp.mozilla.org/pub/firefox/releases/84.0.2/win32/zh-CN/Firefox%20Setup%2084.0.2.exe)
