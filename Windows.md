@@ -18,7 +18,7 @@
 ----------------
 * Windows 7/8.1
   * `推荐，维护至25年9月`[Firefox ESR`115.x`](https://www.mozilla.org/zh-CN/firefox/all/desktop-esr/)
-  * [Catsxp 猫眼浏览器`5.1.2`](https://www.catsxp.com/)<sup>`Chromium132`</sup>
+  * [Catsxp 猫眼浏览器`5.3.1`](https://www.catsxp.com/)<sup>`Chromium134`</sup>
   * [Supermium`126.0.6478.261 R7`](https://github.com/win32ss/supermium/releases)
   * [360安全浏览器`16.1.1088.64`](https://bbs.360.cn/thread-16149929-1-1.html)<sup>`Chromium132`</sup>
   * [QQ浏览器`13.5.6266`](https://browser.qq.com/)<sup>`Chromium116`</sup>
@@ -30,12 +30,12 @@
   * Vivaldi`5.6.2867.62`<sup>`Chromium108`</sup> [64位](https://downloads.vivaldi.com/stable/Vivaldi.5.6.2867.62.x64.exe) [32位](https://downloads.vivaldi.com/stable/Vivaldi.5.6.2867.62.exe)
  ----------------
 * Flash
-  * `推荐`[CefFlashBrowser`1.0.8`](https://github.com/Mzying2001/CefFlashBrowser/releases)<sup>`Chromium84`</sup>
+  * `推荐`[CefFlashBrowser`1.0.9.1`](https://github.com/Mzying2001/CefFlashBrowser/releases)<sup>`Chromium84`</sup>
   * [CentBrowser`4.3.9.248`](https://centbrowser.cn/history.html)<sup>`Chromium86`</sup>
   * Chrome`87.0.4280.141` [第三方链接](https://zhuanlan.zhihu.com/p/614438195)
   * Firefox`84.0.2` [64位](https://ftp.mozilla.org/pub/firefox/releases/84.0.2/win64/zh-CN/Firefox%20Setup%2084.0.2.exe) [32位](https://ftp.mozilla.org/pub/firefox/releases/84.0.2/win32/zh-CN/Firefox%20Setup%2084.0.2.exe)
 
  ----------------
-`Flash Player`第三方修改版本，删除了广告组件：[CleanFlash](https://gitlab.com/cleanflash/installer/-/releases)  
+`Flash Player`第三方修改版本：[CleanFlash](https://gitlab.com/cleanflash/installer/-/releases)  
 
 [2023 年，不想用 360 浏览器，如何用 Flash？ - 奔跑中的奶酪](https://www.runningcheese.com/flash)  
