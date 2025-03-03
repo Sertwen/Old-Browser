@@ -4,7 +4,7 @@
 
 ----------------
 * Windows XP
-  * [Mypal`68.14.7b`](https://github.com/Feodor2/Mypal68/releases)<sup>`Firefox78`</sup>
+  * [Mypal`68.14.7b`](https://github.com/Feodor2/Mypal68/releases)<sup>`Firefox102`</sup>
   * `推荐`[Supermium`126.0.6478.261 R7`](https://github.com/win32ss/supermium/releases)
   * [360安全浏览器`13.1.6410.0`](https://down.360safe.com/se/360se13.1.6410.0.exe)<sup>`Chromium86`</sup>
   * [360极速浏览器`13.5.2044.0`](https://down.360safe.com/cse/360cse_13.5.2044.0.exe)<sup>`Chromium86`</sup>
@@ -21,7 +21,7 @@
   * [Catsxp 猫眼浏览器`5.3.1`](https://www.catsxp.com/)<sup>`Chromium134`</sup>
   * [Supermium`126.0.6478.261 R7`](https://github.com/win32ss/supermium/releases)
   * [360安全浏览器`16.1.1088.64`](https://bbs.360.cn/thread-16149929-1-1.html)<sup>`Chromium132`</sup>
-  * [QQ浏览器`13.5.6266`](https://browser.qq.com/)<sup>`Chromium116`</sup>
+  * [QQ浏览器`13.6.6320.400`](https://browser.qq.com/)<sup>`Chromium116`</sup>
   * [CentBrowser`5.1.1130.129`](https://www.centbrowser.cn/history.html)<sup>`Chromium118`</sup>
   * Chrome`109.0.5414.120` [64位](https://dl.google.com/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe) [32位](https://dl.google.com/release2/chrome/acihtkcueyye3ymoj2afvv7ulzxa_109.0.5414.120/109.0.5414.120_chrome_installer.exe)
   * Internet Explorer`11` [64位](https://www.microsoft.com/zh-cn/download/details.aspx?id=41628) [32位](https://www.microsoft.com/zh-cn/download/details.aspx?id=40907)
