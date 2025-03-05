@@ -25,7 +25,7 @@
   * [CentBrowser`5.1.1130.129`](https://www.centbrowser.cn/history.html)<sup>`Chromium118`</sup>
   * Chrome`109.0.5414.120` [64位](https://dl.google.com/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe) [32位](https://dl.google.com/release2/chrome/acihtkcueyye3ymoj2afvv7ulzxa_109.0.5414.120/109.0.5414.120_chrome_installer.exe)
   * Internet Explorer`11` [64位](https://www.microsoft.com/zh-cn/download/details.aspx?id=41628) [32位](https://www.microsoft.com/zh-cn/download/details.aspx?id=40907)
-  * MicrosoftEdge`109.0.1518.140`<sup>**需要补充后缀`.exe`**</sup> [64位](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1727591107&P2=404&P3=2&P4=MJd5NK0PCQjKiL47W5u3mVbfIjmNYwp5q290wbX6iQ6vqT4ujCP9XRlZg7BiLJVJLNwBk8N6M72VkIHZgOrE8w) [32位](http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1727596667&P2=404&P3=2&P4=fo%2bB2k%2bAF1NCFGXouZIO9jIplbLPcePFZ4XPwEL3%2buMZw4CXezaLlLT4vKlBT%2fEFPcR2xkpxyAhSxpiawqg91Q)
+  * [MicrosoftEdge`109.0.1518.140`](https://www.microsoft.com/zh-cn/edge/download)
   * Opera`95.0.4635.90`<sup>`Chromium109`</sup> [64位](https://ftp.opera.com/ftp/pub/opera/desktop/95.0.4635.90/win/Opera_95.0.4635.90_Setup_x64.exe) [32位](https://ftp.opera.com/ftp/pub/opera/desktop/95.0.4635.90/win/Opera_95.0.4635.90_Setup.exe)
   * Vivaldi`5.6.2867.62`<sup>`Chromium108`</sup> [64位](https://downloads.vivaldi.com/stable/Vivaldi.5.6.2867.62.x64.exe) [32位](https://downloads.vivaldi.com/stable/Vivaldi.5.6.2867.62.exe)
  ----------------
