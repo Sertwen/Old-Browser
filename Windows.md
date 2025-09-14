@@ -17,7 +17,7 @@
   * [Safari`5.1.7`](http://appldnld.apple.com/Safari5/041-5487.20120509.INU8B/SafariSetup.exe)
 ----------------
 * Windows 7/8.1
-  * `推荐，维护至25年9月`[Firefox ESR`115.x`](https://www.mozilla.org/zh-CN/firefox/all/desktop-esr/)
+  * `推荐，维护至2026年3月`[Firefox ESR`115.x`](https://www.mozilla.org/zh-CN/firefox/all/desktop-esr/)
   * [Catsxp 猫眼浏览器`5.3.1`](https://www.catsxp.com/)<sup>`Chromium134`</sup>
   * [Supermium`126.0.6478.261 R7`](https://github.com/win32ss/supermium/releases)
   * [360安全浏览器`16.1.1088.64`](https://bbs.360.cn/thread-16149929-1-1.html)<sup>`Chromium132`</sup>
