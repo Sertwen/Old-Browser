@@ -30,7 +30,7 @@
   * Vivaldi`5.6.2867.62`<sup>`Chromium108`</sup> [64位](https://downloads.vivaldi.com/stable/Vivaldi.5.6.2867.62.x64.exe) [32位](https://downloads.vivaldi.com/stable/Vivaldi.5.6.2867.62.exe)
  ----------------
 * Flash
-  * `推荐`[CefFlashBrowser`1.1.0`](https://github.com/Mzying2001/CefFlashBrowser/releases)<sup>`Chromium84`</sup>
+  * `推荐`[CefFlashBrowser`1.1.5`](https://github.com/Mzying2001/CefFlashBrowser/releases)<sup>`Chromium84`</sup>
   * [CentBrowser`4.3.9.248`](https://centbrowser.cn/history.html)<sup>`Chromium86`</sup>
   * Chrome`87.0.4280.141` [第三方链接](https://zhuanlan.zhihu.com/p/614438195)
   * Firefox`84.0.2` [64位](https://ftp.mozilla.org/pub/firefox/releases/84.0.2/win64/zh-CN/Firefox%20Setup%2084.0.2.exe) [32位](https://ftp.mozilla.org/pub/firefox/releases/84.0.2/win32/zh-CN/Firefox%20Setup%2084.0.2.exe)
